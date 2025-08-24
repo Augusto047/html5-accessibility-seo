@@ -3,7 +3,7 @@
 This is a simple HTML5 webpage created as part of the assignment **"HTML5 + Accessibility & SEO Basics"**.
 
 ## 🌐 Live Demo
-🔗 [Click here to view the live page](https://augusto047.github.io/html5-seo-accessibility-assignment/)
+🔗 [Click here to view the live page](https://augusto047.github.io/html5-accessibility-seo/)
 
 ## ✅ Objectives
 
