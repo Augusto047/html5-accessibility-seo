@@ -1,4 +1,4 @@
-# HTML5 + Accessibility & SEO Basics Assignment
+# HTML5 + Accessibility & SEO Basics Assignment 
 
 This is a simple HTML5 webpage created as part of the assignment **"HTML5 + Accessibility & SEO Basics"**.
 
